@@ -13,6 +13,8 @@ body {
 }
 
 .main {
+  max-width: 1000px;
+  margin: auto;
 }
 
 .header__main {
@@ -41,6 +43,8 @@ body {
 .footer__picture {
   width: 150px;
   height: 150px;
+  border-radius: 80px;
 }
 
-.footer_describe{}
+.footer__describe {
+}
