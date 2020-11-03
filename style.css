@@ -7,9 +7,16 @@ body {
 }
 
 .nav {
+  background-color: green;
+  padding: 10px;
+  border-radius: 50px;
 }
 
 .nav__link {
+  display: inline-block;
+  background-color: yellow;
+  padding: 10px;
+  border-radius: 50px;
 }
 
 .main {
@@ -22,6 +29,9 @@ body {
 }
 
 .section {
+  border: 2px solid green;
+  margin: 5px;
+  padding-left: 20px;
 }
 
 .section__header {
@@ -29,6 +39,7 @@ body {
 }
 
 .section-article {
+
 }
 .section-article__header {
   color: orange;
